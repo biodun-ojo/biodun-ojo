@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @biodun-ojo
 - 👀 I’m interested in Web Dev, Moblie Dev
-- 🌱 I’m currently learning HTML $ CSS
+- 🌱 I’m currently learning HTML $ CSS $ JS
 - 💞️ I’m looking to collaborate on Projects
 - 📫 How to reach me oretoluwaseakinfolarin@gmail.com
 - 😄 Pronouns: he/him
