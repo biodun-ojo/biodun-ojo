@@ -12,7 +12,7 @@ My primary career goal is to have my own company to be able to serve people and 
 
 📫 How to reach me:</p>
 <a href="https://www.linkedin.com/in/abiodun-ojo-oretoluwase-74003623a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="YinkTech">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="biodun-ojo">
 </a>
 
 
