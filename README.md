@@ -32,3 +32,13 @@ I'm Oretoluwase, a relatively new Frontend web developer with the hunger to lear
   <img src="https://github-readme-stats.vercel.app/api?username=biodun-ojo&show_icons=true&theme=cobalt" style="margin-right: 20px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=biodun-ojo&layout=compact&theme=cobalt">
 </div>
+
+## GitHub Streak:
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=biodun-ojo&theme=dark">
+</p>
+
+## GitHub Trophies:
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=biodun-ojo">
+</p>
