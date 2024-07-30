@@ -7,7 +7,7 @@ You can click the Preview link to take a look at your changes.
 
 I'm Oretoluwase, a relatively new Frontend web developer with the hunger to learn more about the software development industry. My expertise spans a broad range of Frontend technologies, including JavaScript, HTML5, and CSS3.
 <br><br>
-My primary career goal is to have my own company to be able to serve people and company in need of my skills.
+
 
 
 📫 How to reach me:</p>
