@@ -26,6 +26,7 @@ I'm Oretoluwase, a relatively new Frontend web developer with the hunger to lear
 
 ## Projects:
 - [Rock Paper Scissors game](https://biodun-ojo.github.io/Rock-paper-scissors/)
+- [Mortgage Repayment Calculator](https://biodun-ojo.github.io/mortgage-repayment-calculator/)
 
 ## GitHub Stats:
 <div style="display: flex; justify-content: center; align-items: center;">
