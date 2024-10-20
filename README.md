@@ -28,6 +28,7 @@ I'm Oretoluwase, a relatively new Frontend web developer with the hunger to lear
 - [Rock Paper Scissors game](https://biodun-ojo.github.io/Rock-paper-scissors/)
 - [Mortgage Repayment Calculator](https://biodun-ojo.github.io/mortgage-repayment-calculator/)
 - [CLI Python Budget Tracker](https://github.com/biodun-ojo/Budget-Tracker)
+- [Weather app](https://biodun-ojo.github.io/Weather-web/)
 
 ## GitHub Stats:
 <div style="display: flex; justify-content: center; align-items: center;">
