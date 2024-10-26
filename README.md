@@ -25,6 +25,7 @@ I'm Oretoluwase, a relatively new Frontend web developer with the hunger to lear
 - 💬 Ask me about anything.
 
 ## Projects:
+- [First Figma Project](https://biodun-ojo.github.io/Figma-project/)
 - [Rock Paper Scissors game](https://biodun-ojo.github.io/Rock-paper-scissors/)
 - [Mortgage Repayment Calculator](https://biodun-ojo.github.io/mortgage-repayment-calculator/)
 - [CLI Python Budget Tracker](https://github.com/biodun-ojo/Budget-Tracker)
