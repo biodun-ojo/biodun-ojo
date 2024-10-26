@@ -29,6 +29,7 @@ I'm Oretoluwase, a relatively new Frontend web developer with the hunger to lear
 - [Mortgage Repayment Calculator](https://biodun-ojo.github.io/mortgage-repayment-calculator/)
 - [CLI Python Budget Tracker](https://github.com/biodun-ojo/Budget-Tracker)
 - [Weather app](https://biodun-ojo.github.io/Weather-web/)
+- [IT capstone](https://biodun-ojo.github.io/Capstone/)
 
 ## GitHub Stats:
 <div style="display: flex; justify-content: center; align-items: center;">
