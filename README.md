@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes.
 
 ### Hi there, I'm Oretoluwase! 👋
 
-I'm Oretoluwase, a relatively new Frontend web developer with the hunger to learn more about the software development industry. My expertise spans a broad range of Frontend technologies, including JavaScript, HTML5, and CSS3.
+I'm Oretoluwase, a relatively new Frontend web developer with the hunger to learn more about the software development industry. My expertise spans a broad range of Frontend technologies, including JavaScript, HTML5, Bootstrap, SASS, and CSS3.
 <br><br>
 
 
@@ -25,12 +25,11 @@ I'm Oretoluwase, a relatively new Frontend web developer with the hunger to lear
 - 💬 Ask me about anything.
 
 ## Projects:
-- [First Figma Project](https://biodun-ojo.github.io/Figma-project/)
 - [Rock Paper Scissors game](https://biodun-ojo.github.io/Rock-paper-scissors/)
 - [Mortgage Repayment Calculator](https://biodun-ojo.github.io/mortgage-repayment-calculator/)
-- [CLI Python Budget Tracker](https://github.com/biodun-ojo/Budget-Tracker)
 - [Weather app](https://biodun-ojo.github.io/Weather-web/)
-- [IT capstone](https://biodun-ojo.github.io/Capstone/)
+- [IP Adderess Tracker](https://biodun-ojo.github.io/IP-Address-Tracker/)
+
 
 ## GitHub Stats:
 <div style="display: flex; justify-content: center; align-items: center;">
