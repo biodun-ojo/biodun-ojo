@@ -29,6 +29,7 @@ I'm Oretoluwase, a relatively new Frontend web developer with the hunger to lear
 - [Mortgage Repayment Calculator](https://biodun-ojo.github.io/mortgage-repayment-calculator/)
 - [Weather app](https://biodun-ojo.github.io/Weather-web/)
 - [IP Adderess Tracker](https://biodun-ojo.github.io/IP-Address-Tracker/)
+- [Currency Converter](https://biodun-ojo.github.io/Currency-converter/)
 
 
 ## GitHub Stats:
