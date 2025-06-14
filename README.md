@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 
 ### ABOUT ME
 
-I'm a **software engineer** based in **Nigeria**, focused on crafting modern, interactive, and scalable web applications. I specialize in **React**, **TypeScript**, and **design systems** that balance performance and aesthetics.
+I'm a **software engineer**, focused on crafting modern, interactive, and scalable web applications. I specialize in **React**, **TypeScript**, and **design systems** that balance performance and aesthetics.
 
 With a background in **software engineering** and hands-on experience building real-world applications, I'm driven by curiosity, creative problem-solving, and the power of clean, readable code.
 
@@ -32,33 +32,33 @@ With a background in **software engineering** and hands-on experience building r
 
 #### IP Adderess Tracker
 A web-based system designed to track, analyze, and display geolocation data of IP addresses in real time.
-- **Tech Stack:** Vanilla(HTML, CSS, JAVASCRIPT), APIs, Leaflet.js, Github pages
+- **Tech Stack:** Vanilla(HTML, CSS, JAVASCRIPT), API, Leaflet.js, Github pages
 - **Features:** Real-time IP location lookup, Interactive map view, and Domain/IP search
-- 🔗 [View Repository](https://biodun-ojo.github.io/IP-Address-Tracker/)
+- 🔗 [View Project](https://biodun-ojo.github.io/IP-Address-Tracker/)
 
 ---
 
 #### Currency Converter
-(**coming soon**)
-- **Tech Stack:** Vanilla(HTML, CSS, JAVASCRIPT), Github pages
-- **Features:** (coming soon)
-- 🔗 [View Repository](https://biodun-ojo.github.io/Currency-converter/)
+A simple and responsive web app that converts between currencies using real-time exchange rates.
+- **Tech Stack:** Vanilla(HTML, CSS, JAVASCRIPT), Github pages, API
+- **Features:** Live exchange rate fetching, Instant conversion on input, Support for multiple global currencies
+- 🔗 [View Project](https://biodun-ojo.github.io/Currency-converter/)
 
 ---
 
 #### Weather app
-(**coming soon**)
+A simple and responsive web app that displays current weather conditions and forecasts using real-time data based on user location or searched cities.
 - **Tech Stack:** Vanilla(HTML, CSS, JAVASCRIPT), APIs, Github pages, Sass, Tailwindcss
-- **Features:** (**coming soon**)
-- 🔗 [View Repository](https://biodun-ojo.github.io/Weather-web/)
+- **Features:** Real-time Weather Data, City Search Functionality, Responsive Design
+- 🔗 [View Project](https://biodun-ojo.github.io/Weather-web/)
 
 ---
 
 #### Mortgage Repayment Calculator
-(**coming soon**)
+A simple and responsive web app that calculates monthly mortgage repayments based on loan amount, interest rate, and loan term.
 - **Tech Stack:** Vanilla(HTML, CSS, JAVASCRIPT), APIs, Github pages, Sass
-- **Features:** (**coming soon**)
-- 🔗 [View Repository](https://biodun-ojo.github.io/mortgage-repayment-calculator/)
+- **Features:** Instant Mortgage Calculation, User-Friendly Interface, Amortization Summary
+- 🔗 [View Project](https://biodun-ojo.github.io/mortgage-repayment-calculator/)
 
 ---
 
@@ -90,11 +90,11 @@ A web-based system designed to track, analyze, and display geolocation data of I
 </p>
 
 <p align='center'>
- <img src="https://github-readme-stats.vercel.app/api?username=biodun-ojo&show_icons=true&theme=radical" style="margin-right: 20px;">
+ <img src="https://github-readme-stats.vercel.app/api?username=biodun-ojo&show_icons=true&theme=radical" style="margin-right: 20px;" alt="GitHub Streak">
 </p>
 
 <p align='center'>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=biodun-ojo&layout=compact&theme=radical">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=biodun-ojo&layout=compact&theme=radical" alt="GitHub Streak">
 </p>
 
 ---
