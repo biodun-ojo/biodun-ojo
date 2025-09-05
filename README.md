@@ -3,7 +3,7 @@
 💡 *Builder. Debugger. Dreamer.*  
 
 I'm a software engineer passionate about turning ideas into systems that actually work.  
-My playgrounds include **JavaScript / TypeScript**, **React**, and I'm diving deep into **Data Engineering**.  
+My babies include **JavaScript / TypeScript**, **React**, and I'm also peeping into **Data Engineering**.  
 
 
 
