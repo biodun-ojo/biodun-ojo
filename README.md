@@ -28,7 +28,10 @@ My playgrounds include **JavaScript / TypeScript**, **React**, and I'm diving de
    A web-based system designed to track, analyze, and display geolocation data of IP addresses in real time. (`Vanilla`, `API`, `Leaflet`)   
 
 - [**Weather app**](https://biodun-ojo.github.io/Weather-web/)  
-   A simple and responsive web app that displays current weather conditions and forecasts using real-time data based on user location or searched cities. (`vanilla`, `API`)  
+   A simple and responsive web app that displays current weather conditions and forecasts using real-time data based on user location or searched cities. (`vanilla`, `API`)
+
+- [**Currency Converter**](https://biodun-ojo.github.io/Currency-converter/)  
+   A lightweight tool that converts currencies instantly using live exchange rates from a public API. (`vanilla`, `API`)
 
 
 ## Tech Stack
