@@ -37,7 +37,7 @@ My babies include **JavaScript / TypeScript**, **React**, and I'm also peeping i
 ## Tech Stack
 
 **Languages & Core:**  
-`JavaScript(ES6+)` `TypeScript` `Python` `HTML5` `CSS3`  
+`JavaScript(ES6+)` `TypeScript` `C#` `Python` `HTML5` `CSS3`  
 
 **Frontend:**  
 `React` `TailwindCSS` `Framer Motion` `GSAP` `Boostrap`
