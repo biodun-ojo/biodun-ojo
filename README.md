@@ -1,20 +1,9 @@
-# Console.log('Hello, I'm Oretoluwase')
+## Oretoluwase
+ _polymath dev._
 
-💡 _Builder. Debugger. Dreamer._
+I just love writing code and building projects.
 
-I'm a software engineer passionate about turning ideas into systems that actually work.
-
-## What I Do
-
-- ⚡ Build clean, scalable web applications
-- 🎨 Experiment with UI/UX + motion (Framer Motion, GSAP, Tailwind)
-
-## Currently Improving On
-
-- Advanced **Data Structures & Algorithms**
-- **Progressive Web Apps (PWAs)**
-
-## Featured Projects
+### Featured Projects
 - [**Find Out (Full stack project)**](https://find-out-nine.vercel.app/)  
   An app dedicated to making people aware of the parties or conferences happening around them. This is was a first try at full stack development.  (`Nextjs`  `Tailwind CSS` `Expressjs` `MongoDB`)
 
@@ -36,21 +25,26 @@ I'm a software engineer passionate about turning ideas into systems that actuall
 - [**Currency Converter**](https://biodun-ojo.github.io/Currency-converter/)  
    A lightweight tool that converts currencies instantly using live exchange rates from a public API. (`vanilla` `API`)
 
-## Tech Stack
-
-**Languages & Core:**  
-`JavaScript(ES6+)` `TypeScript` `C#` `Python` `HTML5` `CSS3`
-
-**Frontend:**  
-`React` `Nextjs` `TailwindCSS` `Framer Motion` `GSAP` `Boostrap` `Redux` `ReduxToolKit`
-
-**Backend & Databases:**  
- `Supabase` `Appwrite` `Expressjs` `FastAPI` `MongoDV`
-
-**Other Tools:**  
-`Git & GitHub` `Vercel` `REST APIs` `Figma` `VSCode` `npm` `Zod` `Github pages`
-
-## Let’s Connect
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/abiodun-ojo-oretoluwase-74003623a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-- 📧 Email me - oretoluwaseakinfolarin@gmail.com
+### Tech Stack
+<div><img src="https://cdn.simpleicons.org/html5/E34F26" width="40"/>
+<img src="https://cdn.simpleicons.org/css/663399" width="40"/>
+<img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="40"/>
+<img src="https://cdn.simpleicons.org/typescript/3178C6" width="40"/>
+<img src="https://cdn.simpleicons.org/python/3776AB" width="40"/>
+<img src="https://cdn.simpleicons.org/react/61DAFB" width="40"/>
+<img src="https://cdn.simpleicons.org/nextdotjs/000000" width="40"/>
+<img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="40"/>
+<img src="https://cdn.simpleicons.org/gsap/0AE448" width="40"/>
+<img src="https://cdn.simpleicons.org/redux/764ABC" width="40"/>
+<img src="https://cdn.simpleicons.org/supabase/3FCF8E" width="40"/>
+<img src="https://cdn.simpleicons.org/appwrite/FD366E" width="40"/>
+<img src="https://cdn.simpleicons.org/express/000000" width="40"/>
+<img src="https://cdn.simpleicons.org/fastapi/009688" width="40"/>
+<img src="https://cdn.simpleicons.org/mongodb/47A248" width="40"/>
+<img src="https://cdn.simpleicons.org/git/F03C2E" width="40"/>
+<img src="https://cdn.simpleicons.org/github/181717" width="40"/>
+<img src="https://cdn.simpleicons.org/vercel/000000" width="40"/>
+<img src="https://cdn.simpleicons.org/figma/F24E1E" width="40"/>
+<img src="https://cdn.simpleicons.org/reactquery/FF4154" width="40"/>
+<img src="https://cdn.simpleicons.org/axios/5A29E4" width="40"/>
+</div>
