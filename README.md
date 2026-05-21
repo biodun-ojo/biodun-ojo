@@ -1,5 +1,5 @@
 ## Oretoluwase
- _polymath dev._
+ _polymath dev... soon_
 
 I just love writing code and building projects.
 
