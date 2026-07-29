@@ -4,8 +4,11 @@
 I just love writing code and building projects.
 
 ### Featured Projects
+- [**Sweb (beta stage)**](https://sweb-nine.vercel.app/)  
+  An app that let's you play games and chat with your friends and strangers live, meaning in real time.  (`React`  `Typescript` `Expressjs` `Web Socket`)
+
 - [**npm-installzx (npm package)**](https://www.npmjs.com/package/npm-installzx)  
-  A npm package built and managed by me to help quickly install all needed depencies. Run `npx npm-installzx` to use in your project, all feedbacks are appreciated.  (`javascript`  `npm` `nodejs`)
+  A npm package built and managed by me to help quickly install all needed depencies. Run `npx npm-installzx` to use in your project.  (`javascript`  `npm` `nodejs`)
 
 - [**Find Out (Full stack project)**](https://find-out-nine.vercel.app/)  
   An app dedicated to making people aware of the parties or conferences happening around them. This is was a first try at full stack development.  (`Nextjs`  `Tailwind CSS` `Expressjs` `MongoDB`)
@@ -54,4 +57,5 @@ I just love writing code and building projects.
 <img src="https://cdn.simpleicons.org/nodedotjs/5FA04E" width="40" title='nodejs'/>
 <img src="https://cdn.simpleicons.org/npm/CB3837" width="40" title='npm'/>
 <img src="https://cdn.simpleicons.org/render/000000" width="40" title='render'/>
+<img src="https://cdn.simpleicons.org/socketdotio/#010101" width="40" title='socket io'/>
 </div>
