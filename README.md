@@ -33,29 +33,29 @@ I just love writing code and building projects.
 
 ### Tech Stack
 <div>
-<img src="https://cdn.simpleicons.org/html5/E34F26" width="40" title='html5'/>
-<img src="https://cdn.simpleicons.org/css/663399" width="40" title='css'/>
-<img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="40" title='javascript'/>
-<img src="https://cdn.simpleicons.org/typescript/3178C6" width="40" title='typescript'/>
-<img src="https://cdn.simpleicons.org/python/3776AB" width="40" title='python'/>
-<img src="https://cdn.simpleicons.org/react/61DAFB" width="40" title='react'/>
-<img src="https://cdn.simpleicons.org/nextdotjs/000000" width="40" title='nextjs'/>
-<img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="40" title='tailwindcss'/>
-<img src="https://cdn.simpleicons.org/gsap/0AE448" width="40" title='gsap'/>
-<img src="https://cdn.simpleicons.org/redux/764ABC" width="40" title='redux'/>
-<img src="https://cdn.simpleicons.org/supabase/3FCF8E" width="40" title='supabase'/>
-<img src="https://cdn.simpleicons.org/appwrite/FD366E" width="40" title='appwrite'/>
-<img src="https://cdn.simpleicons.org/express/000000" width="40" title='express'/>
-<img src="https://cdn.simpleicons.org/fastapi/009688" width="40" title='fastapi'/>
-<img src="https://cdn.simpleicons.org/mongodb/47A248" width="40" title='mongodb'/>
-<img src="https://cdn.simpleicons.org/git/F03C2E" width="40" title='git'/>
-<img src="https://cdn.simpleicons.org/github/181717" width="40" title='github'/>
-<img src="https://cdn.simpleicons.org/vercel/000000" width="40" title='vercel'/>
-<img src="https://cdn.simpleicons.org/figma/F24E1E" width="40" title='figma'/>
-<img src="https://cdn.simpleicons.org/reactquery/FF4154" width="40" title='tanstack query'/>
-<img src="https://cdn.simpleicons.org/axios/5A29E4" width="40" title='axios'/>
-<img src="https://cdn.simpleicons.org/nodedotjs/5FA04E" width="40" title='nodejs'/>
-<img src="https://cdn.simpleicons.org/npm/CB3837" width="40" title='npm'/>
-<img src="https://cdn.simpleicons.org/render/000000" width="40" title='render'/>
-<img src="https://cdn.simpleicons.org/socketdotio/#010101" width="40" title='socket io'/>
+<img src="https://cdn.simpleicons.org/html5/E34F26" width="30" title='html5'/>
+<img src="https://cdn.simpleicons.org/css/663399" width="30" title='css'/>
+<img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="30" title='javascript'/>
+<img src="https://cdn.simpleicons.org/typescript/3178C6" width="30" title='typescript'/>
+<img src="https://cdn.simpleicons.org/python/3776AB" width="30" title='python'/>
+<img src="https://cdn.simpleicons.org/react/61DAFB" width="30" title='react'/>
+<img src="https://cdn.simpleicons.org/nextdotjs/000000" width="30" title='nextjs'/>
+<img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="30" title='tailwindcss'/>
+<img src="https://cdn.simpleicons.org/gsap/0AE448" width="30" title='gsap'/>
+<img src="https://cdn.simpleicons.org/redux/764ABC" width="30" title='redux'/>
+<img src="https://cdn.simpleicons.org/supabase/3FCF8E" width="30" title='supabase'/>
+<img src="https://cdn.simpleicons.org/appwrite/FD366E" width="30" title='appwrite'/>
+<img src="https://cdn.simpleicons.org/express/000000" width="30" title='express'/>
+<img src="https://cdn.simpleicons.org/fastapi/009688" width="30" title='fastapi'/>
+<img src="https://cdn.simpleicons.org/mongodb/47A248" width="30" title='mongodb'/>
+<img src="https://cdn.simpleicons.org/git/F03C2E" width="30" title='git'/>
+<img src="https://cdn.simpleicons.org/github/181717" width="30" title='github'/>
+<img src="https://cdn.simpleicons.org/vercel/000000" width="30" title='vercel'/>
+<img src="https://cdn.simpleicons.org/figma/F24E1E" width="30" title='figma'/>
+<img src="https://cdn.simpleicons.org/reactquery/FF4154" width="30" title='tanstack query'/>
+<img src="https://cdn.simpleicons.org/axios/5A29E4" width="30" title='axios'/>
+<img src="https://cdn.simpleicons.org/nodedotjs/5FA04E" width="30" title='nodejs'/>
+<img src="https://cdn.simpleicons.org/npm/CB3837" width="30" title='npm'/>
+<img src="https://cdn.simpleicons.org/render/000000" width="30" title='render'/>
+<!-- <img src="https://cdn.simpleicons.org/socketdotio/#010101" width="40" title='socket io'/> -->
 </div>
