@@ -4,7 +4,7 @@
 I just love writing code and building projects.
 
 ### Featured Projects
-- [**Sweb (beta stage)**](https://sweb-nine.vercel.app/)  
+- [**Sweb**](https://sweb-nine.vercel.app/)  
   An app that let's you play games and chat with your friends and strangers live, meaning in real time.  (`React`  `Typescript` `Expressjs` `Web Socket`)
 
 - [**npm-installzx (npm package)**](https://www.npmjs.com/package/npm-installzx)  
