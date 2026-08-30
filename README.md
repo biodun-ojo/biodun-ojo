@@ -4,14 +4,18 @@
 I just love writing code and building projects.
 
 ### Featured Projects
+- [**SOL Recover landing page**](https://www.solrecovery.lol/)
+  a beautiful landing page with beautiful animations 
+    (`Nextjs`  `Typescript`)
+
 - [**Sweb**](https://sweb-nine.vercel.app/)  
   An app that let's you play games and chat with your friends and strangers live, meaning in real time.  (`React`  `Typescript` `Expressjs` `Web Socket`)
 
 - [**npm-installzx (npm package)**](https://www.npmjs.com/package/npm-installzx)  
-  A npm package built and managed by me to help quickly install all needed depencies. Run `npx npm-installzx` to use in your project.  (`javascript`  `npm` `nodejs`)
+  A npm package built and managed by me to help quickly install all needed depencies. Run `npx npm-installzx` to use in your project.  (`typescript`  `npm` `nodejs`)
 
 - [**Find Out (Full stack project)**](https://find-out-nine.vercel.app/)  
-  An app dedicated to making people aware of the parties or conferences happening around them. This is was a first try at full stack development.  (`Nextjs`  `Tailwind CSS` `Expressjs` `MongoDB`)
+  An app dedicated to making people aware of the parties or conferences happening around them.   (`Nextjs`  `Tailwind CSS` `Expressjs` `MongoDB`)
 
 - [**E-Commerce Website (Be-Brand)⁠**](https://be-brand.vercel.app/)  
   Developed a responsive e-commerce application with a modern frontend integrated with a backend via REST APIs. Handled product listings, cart management, and user interactions.  (`React`  `Tailwind CSS` `vercel` `Shadcn` `Redux`)
