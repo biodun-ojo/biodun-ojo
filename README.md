@@ -14,7 +14,7 @@ I just love writing code and building projects.
 - [**npm-installzx (npm package)**](https://www.npmjs.com/package/npm-installzx)  
   A npm package built and managed by me to help quickly install all needed depencies. Run `npx npm-installzx` to use in your project.  (`Typescript`  `npm` `nodejs`)
 
-- [**Find Out (Full stack project)**](https://find-out-nine.vercel.app/)  
+- [**Find Out**](https://find-out-nine.vercel.app/)  
   An app dedicated to making people aware of the parties or conferences happening around them.   (`Nextjs`  `Tailwind CSS` `Expressjs` `MongoDB`)
 
 - [**E-Commerce Website (Be-Brand)⁠**](https://be-brand.vercel.app/)  
