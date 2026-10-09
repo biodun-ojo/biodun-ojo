@@ -5,6 +5,9 @@ I just love writing code and building projects.
 
 ### Featured Projects
 
+- [**URL Shortener**](https://url-shortener-nu-eight-19.vercel.app/)  
+  A site that takes in your long url and gives a short url that still takes you to the same link.  (`Nextjs`  `Typescript` `Postgresql` `Expressjs`)
+
 - [**SOL Recover landing page**](https://www.solrecovery.lol/)  
   A landing page full of beautiful animations.  (`Nextjs`  `Typescript`)
 
@@ -61,5 +64,8 @@ I just love writing code and building projects.
 <img src="https://cdn.simpleicons.org/nodedotjs/5FA04E" width="30" title='nodejs'/>
 <img src="https://cdn.simpleicons.org/npm/CB3837" width="30" title='npm'/>
 <img src="https://cdn.simpleicons.org/render/000000" width="30" title='render'/>
+<img src="https://cdn.simpleicons.org/postgresql/4169E1" width="30" title='postgresql'/>
+<img src="https://cdn.simpleicons.org/cplusplus/00599C" width="30" title='cplusplus'/>
+ <img src="https://cdn.simpleicons.org/neon/34D59A" width="30" title='neon'/>
 <!-- <img src="https://cdn.simpleicons.org/socketdotio/#010101" width="40" title='socket io'/> -->
 </div>
