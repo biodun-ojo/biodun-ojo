@@ -6,7 +6,7 @@ I just love writing code and building projects.
 ### Featured Projects
 
 - [**URL Shortener**](https://url-shortener-nu-eight-19.vercel.app/)  
-  A site that takes in your long url and gives a short url that still takes you to the same link.  (`Nextjs`  `Typescript` `Postgresql` `Expressjs`)
+  A web app that takes in your long url and gives a short url that still takes you to the same link.  (`Nextjs`  `Typescript` `Postgresql` `Expressjs`)
 
 - [**SOL Recover landing page**](https://www.solrecovery.lol/)  
   A landing page full of beautiful animations.  (`Nextjs`  `Typescript`)
