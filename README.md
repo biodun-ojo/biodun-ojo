@@ -45,6 +45,7 @@ I just love writing code and building projects.
 <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="30" title='javascript'/>
 <img src="https://cdn.simpleicons.org/typescript/3178C6" width="30" title='typescript'/>
 <img src="https://cdn.simpleicons.org/python/3776AB" width="30" title='python'/>
+<img src="https://cdn.simpleicons.org/c/A8B9CC" width="30" title='c'/>
 <img src="https://cdn.simpleicons.org/react/61DAFB" width="30" title='react'/>
 <img src="https://cdn.simpleicons.org/nextdotjs/000000" width="30" title='nextjs'/>
 <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="30" title='tailwindcss'/>
@@ -65,7 +66,6 @@ I just love writing code and building projects.
 <img src="https://cdn.simpleicons.org/npm/CB3837" width="30" title='npm'/>
 <img src="https://cdn.simpleicons.org/render/000000" width="30" title='render'/>
 <img src="https://cdn.simpleicons.org/postgresql/4169E1" width="30" title='postgresql'/>
-<img src="https://cdn.simpleicons.org/cplusplus/00599C" width="30" title='cplusplus'/>
  <img src="https://cdn.simpleicons.org/neon/34D59A" width="30" title='neon'/>
 <!-- <img src="https://cdn.simpleicons.org/socketdotio/#010101" width="40" title='socket io'/> -->
 </div>
